@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdashboard=self.webpackChunkdashboard||[]).push([[213],{213:(s,r,e)=>{e.r(r),e.d(r,{default:()=>h});var d=e(579);function h(){return(0,d.jsxs)("div",{children:[(0,d.jsx)("p",{children:"\ud83d\udc65 Visitors: 1,240"}),(0,d.jsx)("p",{children:"\ud83d\udcb0 Sales: \u20b934,000"}),(0,d.jsx)("p",{children:"\ud83d\udcc8 Growth: +18%"})]})}}}]);
+//# sourceMappingURL=213.051f0e94.chunk.js.map

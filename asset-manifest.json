@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React_Dashboard/static/css/main.26047158.css",
+    "main.js": "/React_Dashboard/static/js/main.f2d6ba7e.js",
+    "static/js/177.940e055e.chunk.js": "/React_Dashboard/static/js/177.940e055e.chunk.js",
+    "static/js/319.4962e9be.chunk.js": "/React_Dashboard/static/js/319.4962e9be.chunk.js",
+    "static/js/213.051f0e94.chunk.js": "/React_Dashboard/static/js/213.051f0e94.chunk.js",
+    "static/js/453.06b7c348.chunk.js": "/React_Dashboard/static/js/453.06b7c348.chunk.js",
+    "index.html": "/React_Dashboard/index.html",
+    "main.26047158.css.map": "/React_Dashboard/static/css/main.26047158.css.map",
+    "main.f2d6ba7e.js.map": "/React_Dashboard/static/js/main.f2d6ba7e.js.map",
+    "177.940e055e.chunk.js.map": "/React_Dashboard/static/js/177.940e055e.chunk.js.map",
+    "319.4962e9be.chunk.js.map": "/React_Dashboard/static/js/319.4962e9be.chunk.js.map",
+    "213.051f0e94.chunk.js.map": "/React_Dashboard/static/js/213.051f0e94.chunk.js.map",
+    "453.06b7c348.chunk.js.map": "/React_Dashboard/static/js/453.06b7c348.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26047158.css",
+    "static/js/main.f2d6ba7e.js"
+  ]
+}
